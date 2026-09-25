@@ -1,6 +1,4 @@
-Yes — if you mean the **README for Project 3 (AskYourData)**, use this version. It is clean and recruiter-friendly:
 
-````markdown
 # AskYourData - AI Analyst
 
 An AI-powered data analysis application that allows users to ask questions about sales data using natural language.
